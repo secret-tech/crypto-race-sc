@@ -1,0 +1,7 @@
+{
+  "name": "crypto-race",
+  "version": "0.1.0",
+  "contracts": {
+    "CryptoRace": "CryptoRace"
+  }
+}

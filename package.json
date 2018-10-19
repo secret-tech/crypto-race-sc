@@ -1,0 +1,13 @@
+{
+  "name": "crypto-race-sc-zos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ganache-cli": "^6.1.8",
+    "truffle-hdwallet-provider": "^0.0.6",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "zos": "^1.4.2",
+    "zos-lib": "^1.4.1"
+  }
+}
